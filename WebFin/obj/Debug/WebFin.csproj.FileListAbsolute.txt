@@ -1,0 +1,7 @@
+C:\Users\Bax\source\repos\WebFin\WebFin\bin\Debug\WebFin.exe.config
+C:\Users\Bax\source\repos\WebFin\WebFin\bin\Debug\WebFin.exe
+C:\Users\Bax\source\repos\WebFin\WebFin\bin\Debug\WebFin.pdb
+C:\Users\Bax\source\repos\WebFin\WebFin\obj\Debug\WebFin.csprojAssemblyReference.cache
+C:\Users\Bax\source\repos\WebFin\WebFin\obj\Debug\WebFin.csproj.CoreCompileInputs.cache
+C:\Users\Bax\source\repos\WebFin\WebFin\obj\Debug\WebFin.exe
+C:\Users\Bax\source\repos\WebFin\WebFin\obj\Debug\WebFin.pdb
